@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="resistencia_1000k" size="6.400000 5.265965" />
+    <ImageTarget name="resistencia_100k" size="6.400000 5.310877" />
+    <ImageTarget name="resistencia_10k" size="6.400000 5.310877" />
+    <ImageTarget name="resistencia_1k" size="6.400000 5.310877" />
+    <ImageTarget name="interruptor" size="6.400000 5.310877" />
+    <ImageTarget name="iniciotomatierra" size="6.400000 5.310877" />
+    <ImageTarget name="fuente5v" size="6.400000 5.310877" />
+    <ImageTarget name="fintomatierra" size="6.400000 5.329577" />
+    <ImageTarget name="bombilla" size="6.400000 5.310877" />
+    <ImageTarget name="amperimetro" size="6.400000 5.322105" />
+  </Tracking>
+</QCARConfig>

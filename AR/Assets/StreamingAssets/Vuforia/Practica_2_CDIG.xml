@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="tierra_inicial_gpt" size="6.500000 6.500000" />
+    <ImageTarget name="tierra_final_gpt" size="6.500000 6.500000" />
+    <ImageTarget name="resistencia_1000k_gpt" size="6.500000 6.500000" />
+    <ImageTarget name="resistencia_100k_gpt" size="6.500000 6.500000" />
+    <ImageTarget name="resistencia_10k_gpt" size="6.500000 6.500000" />
+    <ImageTarget name="resistencia_1k_gpt" size="6.500000 6.500000" />
+    <ImageTarget name="amperimetro_gpt" size="6.500000 6.500000" />
+    <ImageTarget name="interruptor_gpt" size="6.400000 6.400000" />
+    <ImageTarget name="bombilla_gpt" size="6.500000 6.500000" />
+    <ImageTarget name="fuente_gpt" size="6.500000 6.500000" />
+    <ImageTarget name="tierra_inicio" size="6.500000 6.480000" />
+    <ImageTarget name="resistencia_100" size="6.500000 6.646396" />
+    <ImageTarget name="resistencia_1000" size="6.500000 6.646396" />
+    <ImageTarget name="resistencia_10" size="6.500000 6.646396" />
+    <ImageTarget name="resistencia_1" size="6.500000 6.646396" />
+    <ImageTarget name="interruptor" size="6.500000 6.646396" />
+    <ImageTarget name="amperimetro" size="6.500000 6.646396" />
+    <ImageTarget name="bombilla" size="6.500000 6.646396" />
+    <ImageTarget name="fuente" size="6.500000 6.646396" />
+    <ImageTarget name="tierra" size="6.400000 6.544144" />
+  </Tracking>
+</QCARConfig>
